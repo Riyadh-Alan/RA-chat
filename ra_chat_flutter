@@ -4,3 +4,4 @@ git commit -m "Initial commit - RA Chat Flutter project"
 cd /path/to/ra_chat_flutter
 git init
 git add .
+git commit -m "Initial commit - RA Chat Flutter project"
